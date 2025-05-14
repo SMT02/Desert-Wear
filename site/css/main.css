@@ -1,0 +1,51 @@
+.footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: lightgrey;
+   color: white;
+   text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+a {
+    color: black;
+}
+
+.display-1 {
+    color: #FD7E00;
+}
+
+.display-2 {
+    color: #FD7E00;
+}
+
+.btn {
+    background-color: #FD7E00;
+}
+
+.cost {
+    color: #FD7E00;
+}
+
+.color {
+    background-color: #FFF8E8;
+}
+
+.custom-checkbox .custom-control-input:checked ~ .custom-control-label::before {
+     background-color: #FD7E00;
+}
+
+.news {
+    text-align: center;
+    color: #7D6F5A;
+}
+
+.newsp {
+    text-align: center;
+}
+
+.heading {
+    color: #7D6F5A;
+}
